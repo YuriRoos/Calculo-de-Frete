@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\Frete\CalculoDeFrete\CalculoDeFrete\bin\Debug\CalculoDeFrete.exe.config
+C:\Users\Aluno\Desktop\Frete\CalculoDeFrete\CalculoDeFrete\bin\Debug\CalculoDeFrete.exe
+C:\Users\Aluno\Desktop\Frete\CalculoDeFrete\CalculoDeFrete\bin\Debug\CalculoDeFrete.pdb
+C:\Users\Aluno\Desktop\Frete\CalculoDeFrete\CalculoDeFrete\obj\Debug\CalculoDeFrete.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Frete\CalculoDeFrete\CalculoDeFrete\obj\Debug\CalculoDeFrete.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\Frete\CalculoDeFrete\CalculoDeFrete\obj\Debug\CalculoDeFrete.Form1.resources
+C:\Users\Aluno\Desktop\Frete\CalculoDeFrete\CalculoDeFrete\obj\Debug\CalculoDeFrete.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Frete\CalculoDeFrete\CalculoDeFrete\obj\Debug\CalculoDeFrete.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Frete\CalculoDeFrete\CalculoDeFrete\obj\Debug\CalculoDeFrete.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Frete\CalculoDeFrete\CalculoDeFrete\obj\Debug\CalculoDeFrete.exe
+C:\Users\Aluno\Desktop\Frete\CalculoDeFrete\CalculoDeFrete\obj\Debug\CalculoDeFrete.pdb
